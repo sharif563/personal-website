@@ -1,0 +1,57 @@
+.name{
+    color: rgb(240, 8, 46);
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    margin: 0;
+}
+.tb{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat ;
+}
+.bio{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat ;
+}
+.work{
+    background-image: url(images/work-bg.png);
+    background-repeat: no-repeat ;
+    background-position: right;
+}
+
+.half{
+    width: 45%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 0%;
+}
+.half img{
+    width: 100%;}
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(45deg,rgb(182, 73, 30) ,rgb(224, 44, 20));
+        padding:  10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
+    p{color: dimgray;}
+    .center{text-align: center;}
+    .pic{
+        width: 100%%;
+        float: left;
+       
+    }
+    section{
+        height: 500px;
+        padding-bottom: 150px;
+    #font{
+        font-size: 20px;
+    }
+    .cmt{
+        box-shadow: 10px;
+    }
